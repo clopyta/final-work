@@ -1,3 +1,4 @@
+// the extension for git commit didn't work
 // Function to fetch random book title
 async function fetchRandomBook() {
     const url = 'http://openlibrary.org/search.json?q=the+walking+dead';
