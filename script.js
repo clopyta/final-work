@@ -1,4 +1,5 @@
-// the extension for git commit didn't work
+// the extension for git commit didn't work.
+//lin2.tlu.ee redirects me to  https://www.tlu.ee
 // Function to fetch random book title
 async function fetchRandomBook() {
     const url = 'http://openlibrary.org/search.json?q=the+walking+dead';
